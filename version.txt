@@ -1,2 +1,2 @@
 version2
-ClassMana.xlsm
+ClassManaVer2.xlsm
